@@ -1,0 +1,3 @@
+[submodule "bbcpp"]
+	path = bbcpp
+	url = https://github.com/kudo108/bbcpp
